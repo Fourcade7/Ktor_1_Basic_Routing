@@ -1,0 +1,1 @@
+rootProject.name = "com.pr7.ktor-sdemo"
